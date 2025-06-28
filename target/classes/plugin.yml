@@ -1,0 +1,4 @@
+name: emm
+version: '1.0-SNAPSHOT'
+main: org.example.awa.emm.Emm
+api-version: '1.20'
