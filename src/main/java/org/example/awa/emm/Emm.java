@@ -8,6 +8,7 @@ public final class Emm extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         getLogger().info("插件启动成功！");
+
     }
 
     @Override
