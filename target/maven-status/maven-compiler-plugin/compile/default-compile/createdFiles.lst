@@ -1,2 +1,5 @@
+org\example\awa\emm\events\text.class
+org\example\awa\emm\commands\HelloWorld.class
+org\example\awa\emm\commands\sendMessage.class
 org\example\awa\emm\Emm.class
 org\example\awa\emm\events\LeaveBed.class
