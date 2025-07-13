@@ -9,3 +9,5 @@ commands:
     description: 233
   wupin:
     description: qwq
+  sendmessage:
+    description: awa
